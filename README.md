@@ -1,6 +1,13 @@
 # pigeon_demo
 
-A new Flutter project that uses pigeon package
+A new Flutter project that uses pigeon tool
+
+# Pigeon
+
+Pigeon is a code generator tool to make communication between Flutter and the
+host platform type-safe, easier and faster.
+fot more info check [this](https://pub.dev/packages/pigeon)
+
 
 ## Getting Started
 
